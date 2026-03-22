@@ -13,10 +13,10 @@ title                    : "Xinyu Sun's Homepage"
 title_separator          : "-"
 name                     : &name "Xinyu Sun"
 description              : &description "."   # Update this with a general description of your site, this is the default if not overridden by a page
-url                      : "https://shierlouz.github.io" # 保持这个不变
-                                                         # 中间的注释不用管
-baseurl                  : "/xinyusun.github.io"         # ⚠️ 关键所在！加上斜杠和你的仓库名
-repository               : "shierlouz/xinyusun.github.io" # 顺手把这里也改成你自己的仓库，防止以后其他链接报错
+url                      : "https://xinyujo.github.io" # 换成你全新的顶级域名
+                                                       # 
+baseurl                  : ""                          # ⚠️ 极其重要：必须清空双引号里的内容！
+repository               : "XinyuJo/XinyuJo.github.io" # 更新为你的新仓库名
 
 # Site Author - The following control what appear as part of the author content on the side bar.
 #               If a field is blank the icon and link will not appear, otherwise it will be shown.
