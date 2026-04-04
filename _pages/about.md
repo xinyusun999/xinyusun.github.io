@@ -19,8 +19,5 @@ My current research interests lie at the intersection of foundation models and d
 
 * **UniCorn: Towards Self-Improving Unified Multimodal Models through Self-Generated Supervision** [[arXiv]](https://arxiv.org/abs/2601.03193)
   <br> Ruiyan Han, Zhen Fang, **XinYu Sun**, Yuchen Ma, Ziheng Wang, Yu Zeng, Zehui Chen, Lin Chen, Wenxuan Huang, Wei-Jie Xu, Yi Cao, Feng Zhao
-  <br> *Preprint*
+  <br> *under review*
 
-* **D-GASH: Direct Gain-Aware Step-wise Advantage Shaping for Fine-Grained Credit Assignment in GRPO-based Multimodal Search** [[OpenReview]](https://openreview.net/pdf?id=QAEL90S53c)
-  <br> **XinYu Sun**, Weiqun Wu, Yannian Fu, Haixiao Yue, Yuting Du, Xiao Tan, Kunbin Chen, Wei He
-  <br> *Preprint*
