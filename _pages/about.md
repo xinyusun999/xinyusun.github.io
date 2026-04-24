@@ -18,6 +18,5 @@ My current research interests lie at the intersection of foundation models and d
 ## Publications
 
 * **UniCorn: Towards Self-Improving Unified Multimodal Models through Self-Generated Supervision** [[arXiv]](https://arxiv.org/abs/2601.03193)
-  <br> Ruiyan Han, Zhen Fang, **XinYu Sun**, Yuchen Ma, Ziheng Wang, Yu Zeng, Zehui Chen, Lin Chen, Wenxuan Huang, Wei-Jie Xu, Yi Cao, Feng Zhao
-  <br> *under review*
+  <br>  Zhen Fang,Ruiyan Han,**XinYu Sun**, Yuchen Ma, Ziheng Wang, Yu Zeng, Zehui Chen, Lin Chen, Wenxuan Huang, Wei-Jie Xu, Yi Cao, Feng Zhao
 
